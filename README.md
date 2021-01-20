@@ -9,7 +9,7 @@
 | 🎓 Education | 2020.5 ~ 2020.11  |                   Java SW Developer                   |  Yeongnam Education Center |
 | Freelancer   | 2019.6 ~          |                   webPublisher                        |                             |
 
-### my skills is 
+### my skills 
 Photoshop / illustrator / Premier Pro / html / css / bootstrap / js / jQuery / java / jsp / spring
  
 # Thank u !! 
