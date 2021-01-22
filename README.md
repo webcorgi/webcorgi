@@ -12,7 +12,7 @@
 ### my skills 
 Photoshop / illustrator / Premier Pro / html / css / bootstrap / js / jQuery / java / jsp / spring
  
-# Thank u !
+# Thank u !!!
 
 ```sh
 if ( web == It is interesting ) { daehyun = web }
