@@ -10,7 +10,7 @@
 | Freelancer   | 2019.6 ~          |                   webPublisher                        |                             |
 
 ### my skills 
-Photoshop / illustrator / Premier Pro / html / css / bootstrap / js / jQuery / java / jsp / spring
+Photoshop / illustrator / Premier Pro / html / css / bootstrap / js / jQuery / react /java / jsp / spring
  
 # Thank u !!!
 
