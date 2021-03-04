@@ -8,7 +8,7 @@
 |🏢 Employment | 2018.11 ~ 2020.5  | webDesigner and webPublisher and webFrontendDeveloper |      FUNLAB (Start-Up)     |
 | 🎓 Education | 2020.5 ~ 2020.11  |                   Java SW Developer                   |  Yeongnam Education Center |
 |🏢 Employment | 2021.02 ~ now     |                        web Developer                  |      nanoIT (Start-Up)     |
-| Freelancer   | 2019.6 ~          |                   webPublisher                        |                             |
+| Freelancer   | 2019.4 ~          |                   webPublisher                        |                             |
 
 ### my skills 
 Photoshop / illustrator / Premier Pro / html / css / bootstrap / js / jQuery / react / react-native /java / jsp / spring
