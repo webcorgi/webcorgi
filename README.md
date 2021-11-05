@@ -3,8 +3,8 @@
  
 |    Type     |        Date        |                        Contents                        |        Organization        |
 |:-------------:|:-----------------:|:-----------------------------------------------------:|:--------------------------:|
-|🏢 Employment | 2016.11 ~ 2018.11 |              webDesigner and webPublisher             |      EBI (Web agency)      |
-|🏢 Employment | 2018.11 ~ 2020.05  | webDesigner and webPublisher and webFrontendDeveloper |      FUNLAB (Start-Up)     |
+|🏢 Employment | 2016.11 ~ 2018.11 |              webDesigner , webPublisher             |      EBI (Web agency)      |
+|🏢 Employment | 2018.11 ~ 2020.05  | webDesigner , webPublisher , webFrontendDeveloper |      FUNLAB (Start-Up)     |
 |🏢 Employment | 2021.02 ~ 2021.11 |                  frontend Developer                   |      nanoIT                |
 | Freelancer   | 2019.4 ~          |                   webPublisher                        |                             |
 
