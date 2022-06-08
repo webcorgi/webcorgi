@@ -6,6 +6,7 @@
 |🏢 Employment | 2016.11 ~ 2018.11 |              webDesigner , webPublisher             |      EBI (Web Agency)      |
 |🏢 Employment | 2018.11 ~ 2020.05  | webDesigner , webPublisher , webFrontendDeveloper |      FUNLAB (Start-Up)     |
 |🏢 Employment | 2021.02 ~ 2021.11 |                  frontend Developer                  |      nanoIT (Dev-Lab)        |
+|🏢 Employment | 2021.06 ~  |                  manager                  |      kieea       |
 | Freelancer   | 2019.4 ~          |  webPublisher,  webFrontendDeveloper                      |                             |
 
 
@@ -14,3 +15,4 @@ if ( web == It is interesting ) { daehyun = web }
 ```
 
 My Portfolio Homepage : http://dhweb.i234.me
+
