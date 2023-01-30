@@ -7,7 +7,7 @@
 |🏢 Employment | 2018.11 ~ 2020.05  | webDesigner , webPublisher , webFrontendDeveloper |      FUNLAB (Start-Up)     |
 |🏢 Employment | 2021.02 ~ 2021.11 |                  Frontend Developer                  |      nanoIT (Dev-Lab)        |
 | Freelancer   | 2019.4 ~          |   webDesigner,  webPublisher,  webFrontendDeveloper                      |                             |
-|🏢 Employment | 2022.07 ~ 2023.02 |                  webDesigner, webPublisher , webFrontendDeveloper      |      Pay Eat (Start-Up)        |
+|🏢 Employment | 2022.07 ~ 2023.01 |                  webDesigner, webPublisher , webFrontendDeveloper      |      Pay Eat (Start-Up)        |
 |🏢 Employment | 2023.02 ~ now |                  webDesigner , webPublisher , webFrontendDeveloper      |      Rhaon Entertainment <br /> (game company)        |
 
 ```sh
