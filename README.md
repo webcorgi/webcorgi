@@ -8,7 +8,7 @@
 |🏢 Employment | 2021.02 ~ 2021.11 |                  Frontend Developer                  |      nanoIT (Dev-Lab)        |
 |🏢 Employment | 2022.07 ~ 2023.01 |                  webDesigner, webPublisher , webFrontendDeveloper      |      Pay Eat (Start-Up)        |
 |🏢 Employment | 2023.02 ~ now |                  webDesigner , webPublisher , webFrontendDeveloper      |      Rhaon Entertainment <br /> (game company)        |
-| Freelancer   | 2019.4 ~          |   webDesigner,  webPublisher,  webFrontendDeveloper                      |                             |
+| Freelancer   | 2019.4 ~ now        |   webDesigner,  webPublisher,  webFrontendDeveloper                      |                             |
 
 ```sh
 if ( web == It is interesting ) { daehyun = web }
