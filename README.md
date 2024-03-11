@@ -16,5 +16,3 @@
 if ( web == It is interesting ) { daehyun = web }
 ```
 
-My Portfolio Homepage : http://onedev.i234.me/dhweb/
-
