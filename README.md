@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Webcorgi&fontSize=70" />
- 
+
 |    Type     |        Date        |                        Position                        |        Company        |
 |:-------------:|:-----------------:|:-----------------------------------------------------:|:--------------------------:|
 |🏢 Employment | 2016.11 ~ 2018.11 |              web designer            |      EBI (Web Agency)      |
